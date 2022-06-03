@@ -1,16 +1,16 @@
-# my_app
+# Asman online price watcher project
 
-A new Flutter project.
+The MVP of the project was implemented using the Flutter framework for mobile applications. Only minimal features are included and will be expanded in the future. The data that is displayed in the application is not real, but we are going to use data scraping to extract data from store websites and through ranking systems, aging methods for future use.
 
-## Getting Started
+## Features
+- AI photo recognition
+- Optimal path finding
+- Ranking system
+- Recommendation system
+- Advanced filtration system
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<img width="465" alt="Screenshot 2022-06-03 at 8 39 12 PM" src="https://user-images.githubusercontent.com/25325227/171855780-2d48944e-c7d7-4eb1-a118-61018184e930.png">
+<img width="466" alt="Screenshot 2022-06-03 at 8 39 22 PM" src="https://user-images.githubusercontent.com/25325227/171855794-a4718ce7-a960-455f-8a45-677fc4908f4d.png">
+<img width="458" alt="Screenshot 2022-06-03 at 8 39 40 PM" src="https://user-images.githubusercontent.com/25325227/171855803-c2717883-bdd5-4119-a6d8-55dfc7cd646c.png">
+<img width="458" alt="Screenshot 2022-06-03 at 8 39 49 PM" src="https://user-images.githubusercontent.com/25325227/171855807-fe91c814-93bd-4b82-a850-42a81a4d09f9.png">
